@@ -19,3 +19,6 @@ Customizations you can do
 - change the port or remove exposure on your host via the ports: line of compose
 - edit initdomaindb.sql script for your custom schema and data
 - add additional/alternative sql scripts to the \data\mssql folder to run them
+
+Special thanks to contributers in this github for great thinking and working scriptlets.  Reference:  
+#reference https://github.com/microsoft/mssql-docker/issues/11
