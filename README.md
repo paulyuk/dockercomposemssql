@@ -9,7 +9,7 @@ To get started
 - clone this sample
 - cd into this folder
 - 'compose up'
-- inspect docker logs (e.g. using VS Code Docker extension)
+- inspect docker logs (e.g. using VS Code Docker extension or 'docker logs mssql -f')
 - connect to sql
     server:  localhost, 1433
     username: sa
