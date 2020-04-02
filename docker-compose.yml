@@ -1,5 +1,5 @@
 version: '2.1'
-#reference https://github.com/microsoft/mssql-docker/issues/11
+#reference https://github.com/paulyuk/dockercomposemssql/blob/master/README.md
  
 services: 
   mssql:
